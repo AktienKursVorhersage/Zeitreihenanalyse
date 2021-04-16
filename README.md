@@ -20,10 +20,10 @@ Bei der Umsetzung haben wir die Daten in zwei verschiedene Häufigkeiten geteilt
 ## Ergebnisse
 
 ### ARIMA auf den Tagesdaten
-![Vorhersage vs. Tatsächliche Werte](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/cf91fe58a2183481ec060d85cce40983d82b7c55/linear.png "Lineare Regression")
-![Konfidenzintervall (95%) der Vorhersagen](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/cf91fe58a2183481ec060d85cce40983d82b7c55/linear.png "Lineare Regression")
+![Vorhersage vs. Tatsächliche Werte](https://github.com/AktienKursVorhersage/Zeitreihenanalyse/blob/main/img/pred_vs_actual_Day.png "Vorhersage vs. Tatsächliche Werte")
+![Konfidenzintervall (95%) der Vorhersagen](https://github.com/AktienKursVorhersage/Zeitreihenanalyse/blob/main/img/pred_confint_Day.png "Konfidenzintervall (95%) der Vorhersagen")
 
 
 ### ARIMA auf den Monatsdaten
-![Vorhersage vs. Tatsächliche Werte](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/cf91fe58a2183481ec060d85cce40983d82b7c55/linear.png "Lineare Regression")
-![Konfidenzintervall (95%) der Vorhersagen](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/cf91fe58a2183481ec060d85cce40983d82b7c55/linear.png "Lineare Regression")
+![Vorhersage vs. Tatsächliche Werte](https://github.com/AktienKursVorhersage/Zeitreihenanalyse/blob/main/img/pred_vs_actual_Month.png "Vorhersage vs. Tatsächliche Werte")
+![Konfidenzintervall (95%) der Vorhersagen](https://github.com/AktienKursVorhersage/Zeitreihenanalyse/blob/main/img/pred_confint_Month.png "Konfidenzintervall (95%) der Vorhersagen")
