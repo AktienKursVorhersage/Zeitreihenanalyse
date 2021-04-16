@@ -8,7 +8,7 @@
 
 ## Idee
 
-Im Rahmen unserer Untergruppe haben wir uns dazu entschieden, den Aktienkurs-Verlauf der VW-Aktie mit Hilfe einer Zeitreihenanalyse (ARIMA-Model) zu bestimmen. 
+Im Rahmen unserer Untergruppe haben wir uns dazu entschieden, den Aktienkurs-Verlauf der VW-Aktie mit Hilfe einer Zeitreihenanalyse (ARIMA-Modell) zu bestimmen. 
 
 ## Umsetzung
 
