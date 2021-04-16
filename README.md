@@ -3,7 +3,7 @@
 ## Bearbeiter
 
 - Jan Zecevic
-- Ali Alnaser Mohammad
+- Mohammad Ali Alnaser
 - Julie Pines
 
 ## Idee
