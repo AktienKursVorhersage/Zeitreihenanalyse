@@ -4,7 +4,7 @@
 
 - Jan Zecevic (jan.zecevic@sap.com)
 - Mohammad Ali Alnaser
-- Julie Pines
+- Julie Pines (pinesjulie@googlemail.com)
 
 ## Idee
 
