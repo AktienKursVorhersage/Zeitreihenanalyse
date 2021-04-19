@@ -2,9 +2,9 @@
 
 ## Bearbeiter
 
-- Jan Zecevic
-- Mohammad Ali Alnaser
-- Julie Pines
+- Jan Zecevic (jan.zecevic@sap.com)
+- Mohammad Ali Alnaser (mohammad.ali.alnaser@sap.com)
+- Julie Pines (pinesjulie@googlemail.com)
 
 ## Idee
 
