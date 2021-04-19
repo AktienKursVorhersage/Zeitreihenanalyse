@@ -2,7 +2,7 @@
 
 ## Bearbeiter
 
-- Jan Zecevic
+- Jan Zecevic (jan.zecevic@sap.com)
 - Mohammad Ali Alnaser
 - Julie Pines
 
